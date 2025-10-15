@@ -1,4 +1,2 @@
 Gateway data:
-
-10.62.95.254
-192.168.114.6
+yourORG-gateway-addresses
